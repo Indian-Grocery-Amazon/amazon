@@ -1,3 +1,3 @@
-Hello ...This file
+This file
 contains
 the deployment logic
